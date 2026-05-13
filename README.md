@@ -79,12 +79,12 @@ I work at the intersection of **molecular biology, sequencing data, and machine 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipranjalisharma&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipranjalisharma&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ipranjalisharma&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ipranjalisharma&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </div>
 <br>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ipranjalisharma&theme=aura_dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjalisharma&theme=aura_dark&hide_border=false" alt="GitHub Streak">
 </div>
 <br>
 <div align="center">
@@ -93,7 +93,7 @@ I work at the intersection of **molecular biology, sequencing data, and machine 
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ipranjalisharma&icon=7&color=10" alt="Profile Views"></a>
+  <img src="https://komarev.com/ghpvc/?username=ipranjalisharma&color=823161&style=flat-square" alt="Profile Views">
 </div>
 
 <!-- Trigger build -->
