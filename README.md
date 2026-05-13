@@ -5,7 +5,7 @@
   <h3>Bioinformatics Researcher | Deep Learning for Multi-Omics & Regulatory Genomics</h3>
 
   <p>
-    <a href="https://ipranjalisharma.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d95b88?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+    <a href="https://ipranjalisharma.github.io/ipranjalisharma/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d95b88?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
     <a href="https://bsky.app/profile/ipranjalisharma.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
     <a href="https://linkedin.com/in/pranjali-sharma-925566220" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:ipranjalisharma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -95,3 +95,5 @@ I work at the intersection of **molecular biology, sequencing data, and machine 
 <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ipranjalisharma&icon=7&color=10" alt="Profile Views"></a>
 </div>
+
+<!-- Trigger build -->
