@@ -26,12 +26,15 @@
   --bg:#0f0916;
   --bg2:#160e22;
   --card:rgba(45, 27, 77, 0.6);
-  --t1:#fceef5;
-  --t2:#d8c9e0;
-  --t3:#a695b5;
+  --t1:#ffffff; /* Pure white for primary text */
+  --t2:#e2d5f0; /* Brighter lavender for secondary */
+  --t3:#b5a6c9;
+  --purple:#a78bfa; /* Much lighter/vibrant purple for dark mode */
+  --cyan:#fb7185; /* Brighter pink-rose */
   --glass:rgba(45, 27, 77, 0.58);
-  --glass-b:rgba(157, 141, 241, 0.25);
-  --glow:0 16px 42px rgba(157, 141, 241, 0.15);
+  --glass-b:rgba(167, 139, 250, 0.3);
+  --glow:0 16px 42px rgba(167, 139, 250, 0.2);
+  --grad:linear-gradient(135deg, #fb7185, #c084fc, #a78bfa); /* Brighter gradient for dark mode */
   --nav:rgba(15, 9, 22, 0.86);
 }
 
@@ -87,7 +90,6 @@ body::before {
 nav{position:fixed;top:0;width:100%;z-index:1000;backdrop-filter:blur(24px) saturate(1.6);-webkit-backdrop-filter:blur(24px) saturate(1.6);background:var(--nav);border-bottom:1px solid var(--glass-b);transition:all .4s}
 nav.scrolled{box-shadow:0 4px 30px rgba(157,141,241,.2)}
 .nav-inner{max-width:1200px;margin:0 auto;padding:0 2rem;display:flex;justify-content:space-between;align-items:center;height:64px}
-.nav-logo{font-family:'Sora',sans-serif;font-weight:800;font-size:1.4rem;background:var(--grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:-1px;cursor:default}
 .nav-links{display:flex;gap:2rem;list-style:none}
 .nav-links a{color:var(--t2);text-decoration:none;font-size:.88rem;font-weight:500;transition:all .3s;position:relative;padding:4px 0}
 .nav-links a:hover{color:var(--purple)}
